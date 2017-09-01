@@ -70,6 +70,7 @@
 - [加密货币 虚拟货币如何挑战全球经济秩序](http://item.jd.com/11821366.html)
 - [比特币：一个虚幻而真实的金融世界](http://item.jd.com/11368879.html)
 - [数字货币：比特币数据报告与操作指南](http://item.jd.com/11388432.html)
+- [以太坊白皮书](http://wiki.jikexueyuan.com/project/ethereum)
 
 ## Meetings
 
