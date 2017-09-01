@@ -18,7 +18,7 @@
 
 ## Courses 
 
-- [https://anders.com/blockchain/)](https://anders.com/blockchain/)
+- [Block Demo](https://anders.com/blockchain/)
 - [Bitcoin and Cryptocurrency Technologies (Princeton University)](https://www.coursera.org/course/bitcointech)
 - [A developer-oriented series about Bitcoin](http://davidederosa.com/basic-blockchain-programming/)
 - [Programming The Blockchain in C#](https://programmingblockchain.gitbooks.io/programmingblockchain/content/)
